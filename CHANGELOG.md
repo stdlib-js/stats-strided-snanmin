@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-06-10)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`ffc393b`](https://github.com/stdlib-js/stdlib/commit/ffc393ba0e5270509bc47ebd5350ae77c4a1ef7f) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`1eeb209`](https://github.com/stdlib-js/stdlib/commit/1eeb2090c229ac3c0aa01ce29257308baf5cec02) - **feat:** add `stats/strided/snanmin` _(by Aayush Khanna)_
 
 </details>
@@ -34,9 +36,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Gururaj Gurram
+-   Philipp Burckhardt
 
 </section>
 
