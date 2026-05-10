@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-05)
+## Unreleased (2026-05-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`506b8ab`](https://github.com/stdlib-js/stdlib/commit/506b8ab8b73c5f97d5d99ebecdc769d136328fc4) - **test:** fix `Float32Array` import in `stats/strided/snanmin` [(#12061)](https://github.com/stdlib-js/stdlib/pull/12061) _(by Karan Anand, Athan Reines)_
 -   [`d6c72a0`](https://github.com/stdlib-js/stdlib/commit/d6c72a042cca76e97759951cdbf89375b784e16a) - **bench:** refactor to use string interpolation in `stats/strided` [(#11359)](https://github.com/stdlib-js/stdlib/pull/11359) _(by Karan Anand)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 
 </section>
